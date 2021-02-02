@@ -1,6 +1,6 @@
 # range_tree
 final DS project for 2D range tree
-structure for finding for points of giving area (x and y) in O(log^2(n)+k)
+structure for finding points(x and y) of giving area in O(log^2(n)+k)
 
 
 
